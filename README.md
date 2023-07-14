@@ -1,2 +1,2 @@
 # Py
-Exercise projects
+Automate projects with Python
